@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sneha 👋
+
+🎓 BCA Student  
+📊 Aspiring Data Analyst  
+💻 Learning Python, SQL & Power BI  
+
+## Skills
+- Python
+- SQL
+- Excel
+- Power BI
+
+## Current Goals
+- Build analytics projects
+- Improve SQL
+- Become internship-ready
 
 <!--
 **sneha310-c/sneha310-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
